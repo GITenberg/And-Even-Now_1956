@@ -1,0 +1,33 @@
+_repo: And-Even-Now_1956
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Beerbohm, Max, Sir
+    alias: Beerbohm, Henry Maximilian, Sir
+    birthdate: 1872
+    deathdate: 1956
+    gutenberg_agent_id: '397'
+    url: http://www.gutenberg.org/2009/agents/397
+    wikipedia: http://en.wikipedia.org/wiki/Max_Beerbohm
+description: HTML
+gutenberg_issued: '1999-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1956'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English essays'
+- GITenberg
+tableOfContents: A relic (1918) -- "How shall I word it?" (1910) -- Mobled king (1911)
+  -- Kolniyatsch (1913) -- No. 2. The Pines (1914) -- A letter that was not written
+  (1914) -- Books within books (1914) -- The golden drugget (1918) -- Hosts and guests
+  (1918) -- A point to be remembered by very eminent men (1918) -- Servants (1918)
+  -- Going out for a walk (1918) -- Quia imperfectum (1918) -- Something defeasible
+  (1919) -- "A clergyman" (1918) -- The crime (1920) -- In homes unblest (1919) --
+  William and Mary (1920) -- On speaking French (1919) -- Laughter (1920).
+title: And Even Now
+url: http://www.gutenberg.org/ebooks/1956
